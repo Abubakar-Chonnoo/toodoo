@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toodoo/static/css/main.afd7172b.chunk.css",
+    "main.js": "/toodoo/static/js/main.a2bda317.chunk.js",
+    "main.js.map": "/toodoo/static/js/main.a2bda317.chunk.js.map",
+    "runtime-main.js": "/toodoo/static/js/runtime-main.bb09e28d.js",
+    "runtime-main.js.map": "/toodoo/static/js/runtime-main.bb09e28d.js.map",
+    "static/js/2.5d9c52b8.chunk.js": "/toodoo/static/js/2.5d9c52b8.chunk.js",
+    "static/js/2.5d9c52b8.chunk.js.map": "/toodoo/static/js/2.5d9c52b8.chunk.js.map",
+    "static/js/3.11d3b74a.chunk.js": "/toodoo/static/js/3.11d3b74a.chunk.js",
+    "static/js/3.11d3b74a.chunk.js.map": "/toodoo/static/js/3.11d3b74a.chunk.js.map",
+    "index.html": "/toodoo/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/toodoo/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.5d9c52b8.chunk.js.LICENSE.txt": "/toodoo/static/js/2.5d9c52b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb09e28d.js",
+    "static/js/2.5d9c52b8.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.a2bda317.chunk.js"
+  ]
+}
